@@ -1,0 +1,45 @@
+
+input[type="textfield1"],
+textarea {
+    width: 100%;
+    padding: 4px 0px;
+    font-size: 24px;
+    margin: 10px 0;
+    border: 1px solid silver;
+    border-radius: 0px;
+    text-align: right;
+    color: #333;
+    background: #ffffff;
+}
+
+
+
+input[type="text1"],
+textarea {
+    width: 100%;
+    background-color: #337ab7;
+    padding: 20px 0px;
+    font-size: 24px;
+    border:none;
+    text-align: center;
+    color: #fff;
+    background: #337ab7;
+}
+
+
+
+button[type=button1], button[type=reset1] {
+    background-color: #337ab7;
+    border: none;
+    color: white;
+    padding: 20px 0px;
+    font-size: 24px;
+    min-width: 15%;
+    text-decoration: none;
+    margin: 2px 1px;
+        cursor: pointer;
+}
+button[type=button1]:hover, button[type=submit1]:hover, button[type=reset1]:hover {
+  background-color: #337ab7;
+  border: none;
+}
